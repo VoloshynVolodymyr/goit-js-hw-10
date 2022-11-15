@@ -22,3 +22,7 @@ li {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+.flag {
+  cursor: pointer;
+}
